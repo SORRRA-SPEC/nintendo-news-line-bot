@@ -1,0 +1,3 @@
+#githubに上げない.gitignore
+.env
+sent_articles.txt
